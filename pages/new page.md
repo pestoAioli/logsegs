@@ -1,2 +1,4 @@
 - [[another page]]
-	-
+	- [[another new page]]
+		- [[yet another new page]]
+		-
