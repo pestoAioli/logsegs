@@ -1,1 +1,1 @@
-- Impulse = change
+- Impulse = change of momentum
