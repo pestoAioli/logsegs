@@ -1,1 +1,1 @@
-- Impulse = change of momentum
+- Impulse = change in momentum = integral of force
