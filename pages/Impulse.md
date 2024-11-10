@@ -1,1 +1,2 @@
-- Impulse = change in momentum = integral of force
+- Impulse = change in momentum = integral of force with respect to to time
+	-
