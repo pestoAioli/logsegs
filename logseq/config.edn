@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? false}
- :zotero/settings-v2 {"worcestershire" {}}}
+ :zotero/settings-v2 {"worcestershire" {:type-id ""}}}
