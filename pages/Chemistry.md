@@ -1,2 +1,1 @@
-## [[Chemistry/CHEM 3A]]
-- ### [[Acid-base reactions]]
+### [[Acid-base reactions]]
