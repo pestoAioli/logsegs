@@ -12,4 +12,7 @@
 - Chapter 5
 	- LATER add
 - Chapter 6
+	- LATER add
+- Chapter 7
+	- LATER add
 -
