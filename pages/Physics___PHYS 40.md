@@ -21,4 +21,3 @@
 	- LATER add
 - Chapter 12: Static Equilibrium and Elasticity
 	- {{This is coming up next!}}
-	-
