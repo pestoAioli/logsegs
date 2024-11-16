@@ -1,5 +1,1 @@
-- [[Rolling Motion (without slipping)]]
-	- K_rolling = K_rotational + K_centerofmass
-	- rolling constraints:
-		- V_centerofmass = omega * R
-		- A_centerofmass = alpha * R
+-
