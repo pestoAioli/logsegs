@@ -15,4 +15,8 @@
 	- LATER add
 - Chapter 7
 	- LATER add
--
+- Chapter 8
+	- LATER add
+- Chapter 9
+	- LATER add
+	-
