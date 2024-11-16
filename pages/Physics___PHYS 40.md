@@ -7,7 +7,7 @@
 	- LATER add
 - Chapter 5: Newton's Laws of Motion
 	- LATER add
-- Chapter 6:
+- Chapter 6: Applications of Newton's Laws
 	- LATER add
 - Chapter 7: Work and Kinetic Energy
 	- LATER add
