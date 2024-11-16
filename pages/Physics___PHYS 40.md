@@ -11,9 +11,9 @@
 	- LATER add
 - Chapter 7: Work and Kinetic Energy
 	- LATER add
-- Chapter 8:
+- Chapter 8: Potential Energy and Conservation of Energy
 	- LATER add
-- Chapter 9
+- Chapter 9:
 	- LATER add
 - Chapter 10
 -
