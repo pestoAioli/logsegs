@@ -9,9 +9,9 @@
 	- LATER add
 - Chapter 6: Work and Kinetic Energy
 	- LATER add
-- Chapter 7: Poten
+- Chapter 7: Potential Energy and Conservation of Energy
 	- LATER add
-- Chapter 8
+- Chapter 8:
 	- LATER add
 - Chapter 9
 	- LATER add
