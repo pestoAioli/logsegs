@@ -5,11 +5,11 @@
 	- LATER add
 - Chapter 4: Motion in 2 and 3 dimensions
 	- LATER add
-- Chapter 5: Ne
+- Chapter 5: Newton's Laws of Motion
 	- LATER add
-- Chapter 6
+- Chapter 6: Work and Kinetic Energy
 	- LATER add
-- Chapter 7
+- Chapter 7: Poten
 	- LATER add
 - Chapter 8
 	- LATER add
