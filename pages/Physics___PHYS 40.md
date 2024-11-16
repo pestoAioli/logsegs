@@ -1,11 +1,11 @@
 ## Textbook ![University Physics Volume 1.pdf](../assets/University_Physics_Volume_1_1731728283620_0.pdf)
 - Chapter 2: Vectors
 	- LATER add
-- Chapter 3: Motio
+- Chapter 3: Motion along a straight line
 	- LATER add
-- Chapter 4
+- Chapter 4: Motion in 2 and 3 dimensions
 	- LATER add
-- Chapter 5
+- Chapter 5: Ne
 	- LATER add
 - Chapter 6
 	- LATER add
