@@ -19,4 +19,5 @@
 	- LATER add
 - Chapter 11: Angular Momentum
 	- LATER add
-- Chapter 12: Static E
+- Chapter 12: Static Equilibrium and Elasticity
+	-
