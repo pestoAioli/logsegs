@@ -1,7 +1,7 @@
 ## Textbook ![University Physics Volume 1.pdf](../assets/University_Physics_Volume_1_1731728283620_0.pdf)
-- Chapter 2:
+- Chapter 2: Vectors
 	- LATER add
-- Chapter 3
+- Chapter 3: Motio
 	- LATER add
 - Chapter 4
 	- LATER add
