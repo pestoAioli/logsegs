@@ -7,9 +7,9 @@
 	- LATER add
 - Chapter 5: Newton's Laws of Motion
 	- LATER add
-- Chapter 6: Work and Kinetic Energy
+- Chapter 6:
 	- LATER add
-- Chapter 7: Potential Energy and Conservation of Energy
+- Chapter 7: Work and Kinetic Energy
 	- LATER add
 - Chapter 8:
 	- LATER add
