@@ -1,3 +1,4 @@
+- Te![University Physics Volume 1.pdf](../assets/University_Physics_Volume_1_1731728283620_0.pdf)
 - Chapter 1
 	- LATER add 
 	  :LOGBOOK:
