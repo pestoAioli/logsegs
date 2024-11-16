@@ -17,4 +17,6 @@
 	- LATER add
 - Chapter 10: Fixed Axis Rotation
 	- LATER add
-- Chapter 11: Anf
+- Chapter 11: Angular Momentum
+	- LATER add
+- Chapter 12: Static E
